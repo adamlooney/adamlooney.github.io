@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://adam-looney.com/sitemap.xml
+Sitemap: https://adamlooney.com/sitemap.xml
