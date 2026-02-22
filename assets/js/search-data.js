@@ -14,7 +14,7 @@ ninja.data = [{
           description: "Publications in reversed chronological order.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/publications/";
+            window.location.href = "/research/";
           },
         },{id: "nav-cv",
           title: "cv",
