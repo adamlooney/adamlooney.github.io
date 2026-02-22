@@ -2,33 +2,37 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  Director, <a href='https://eccles.utah.edu/eccles-institute/'>Marriner S. Eccles Institute</a> | University of Utah | <a href='https://www.brookings.edu/experts/adam-looney/'>Brookings Institution</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: prof_pic.png
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Department of Finance</p>
+    <p>Garff 3426</p>
+    <p>1731 E Campus Center Dr</p>
+    <p>Salt Lake City, UT 84112</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
+  scrollable: true
+  limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Director of the Marriner S. Eccles Institute for Economics and Quantitative Analysis at the University of Utah, clinical professor in the Division of Quantitative Analysis of Markets and Organizations, and a Visiting Senior Fellow at the Brookings Institution.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research examines the effects of government programs, with a particular focus on tax and student loan policy. While at Brookings and the University of Utah, I have been called to testify in Congress by members of both parties on tax and student loan policy, and my research has influenced the development of federal tax policies and education reforms.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I returned to Brookings in 2017 after three years of service in the U.S. Treasury Department as Deputy Assistant Secretary for Tax Analysis. At Treasury, I advised the Secretary on economic issues related to tax policy, analyzed current and proposed legislation, and provided the official receipts forecasts and revenue estimates for the Administration's budgets.
+
+Prior to joining the Treasury, I was policy director of The Hamilton Project and was a senior fellow in Economic Studies at Brookings from 2010--2013. Previously, I served as the senior economist for public finance and tax policy with President Obama's Council of Economic Advisers and was an economist at the Federal Reserve Board. I received my Ph.D. in economics from Harvard University and my BA in economics from Dartmouth College.

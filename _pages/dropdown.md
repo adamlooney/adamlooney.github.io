@@ -1,13 +1,17 @@
 ---
 layout: page
-title: submenus
+title: policy writing
 nav: true
-nav_order: 8
+nav_order: 4
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
+  - title: government service
+    permalink: /service/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: student loans
+    permalink: /student-loans/
+  - title: taxes
+    permalink: /taxes/
+  - title: other writing
+    permalink: /writing/
 ---
