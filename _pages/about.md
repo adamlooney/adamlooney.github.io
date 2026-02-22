@@ -2,6 +2,7 @@
 layout: about
 title: about
 permalink: /
+nav: false
 subtitle: >
   Director, <a href='https://eccles.utah.edu/eccles-institute/'>Marriner S. Eccles Institute</a> | University of Utah | <a href='https://www.brookings.edu/experts/adam-looney/'>Brookings Institution</a>
 

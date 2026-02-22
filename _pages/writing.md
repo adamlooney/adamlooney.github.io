@@ -6,17 +6,15 @@ description: Op-eds, Hamilton Project publications, and other policy writing.
 nav: false
 ---
 
-- **"Non-Compete Agreements: Protecting Intellectual Property or Suppressing Labor Market Competition?"** (with Greyson Rynders.) Summary of Testimony before the Utah State Legislature's Business and Labor Interim Committee.
+- **"Non-Compete Agreements: Protecting Intellectual Property or Suppressing Labor Market Competition?"** (with Greyson Rynders.) Summary of Testimony before the Utah State Legislature's Business and Labor Interim Committee. [(link)](https://marriner.eccles.utah.edu/utahs-teen-triumph-the-states-enduring-high-teen-labor-force-participation-rate-cloned/)
 
 - **"What Can We Do About the Student Loan Crisis?"** Eccles Business Buzz Podcast. [(link)](https://redcircle.com/shows/9afeb3b8-2b13-4868-8651-69fb348962fe/ep/7698f65e-182b-4eba-b152-f215251d721a)
 
-- **"A Framework for Economic Analysis of Tax Regulations."** (with Greg Leiserson.) December 2018. The Brookings Institution. [(link)](https://www.brookings.edu/wp-content/uploads/2018/12/ES_20181220_Looney-OIRA-Tax-Regs.pdf)
-
 - **"So you want to comment on a regulation? Here's how."** August 2018. The Brookings Institution. [(link)](https://www.brookings.edu/research/so-you-want-to-comment-on-a-regulation-heres-how/)
 
-- **"5 facts about prisoners and work, before and after incarceration."** March 2018. The Brookings Institution.
+- **"5 facts about prisoners and work, before and after incarceration."** March 2018. The Brookings Institution. [(link)](https://www.brookings.edu/articles/5-facts-about-prisoners-and-work-before-and-after-incarceration/)
 
-- **"The true trade deficit."** (with Martin Neil Baily.) May 2017. The Wall Street Journal.
+- **"The true trade deficit."** (with Martin Neil Baily.) May 2017. The Wall Street Journal. [(link)](https://www.brookings.edu/articles/the-true-trade-deficit/)
 
 - **"Thirteen Economic Facts about Social Mobility and the Role of Education."** (with Michael Greenstone, Jeremy Patashnik, and Muxin Yu.) 2013. The Hamilton Project. [(link)](http://www.brookings.edu/~/media/research/files/reports/2013/06/13-facts-higher-education/thp_13econfacts_final.pdf)
 

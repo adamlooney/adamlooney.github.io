@@ -38,9 +38,7 @@ nav: false
 
 - **"Who owes the most in student loans: New data from the Fed."** (with Sandy Baum.) October 9, 2020. The Brookings Institution. [(link)](https://www.brookings.edu/blog/up-front/2020/10/09/who-owes-the-most-in-student-loans-new-data-from-the-fed/)
 
-- **"Congress is about to give a student-loan tax break that will only benefit the best-off borrowers."** March 2020. The Brookings Institution.
-
-- **"Who owes all that student debt? And who'd benefit if it were forgiven?"** (with David Wessel and Kadija Yilla.) January 2020. The Brookings Institution.
+- **"Who owes all that student debt? And who'd benefit if it were forgiven?"** (with David Wessel and Kadija Yilla.) January 2020. The Brookings Institution. [(link)](https://www.brookings.edu/articles/who-owes-all-that-student-debt-and-whod-benefit-if-it-were-forgiven/)
 
 ### 2018
 
@@ -50,17 +48,15 @@ nav: false
 
 - **"Why the dentist with $1 million in student debt spells trouble for federal loan programs."** May 30, 2018. The Brookings Institution. [(link)](https://www.brookings.edu/blog/up-front/2018/05/30/why-the-dentist-with-1-million-in-student-debt-spells-trouble-for-federal-loan-programs/)
 
-- **"More students are taking on crippling debt they can't repay--it's time for higher education to share the risks."** February 2018. Comment to Senate HELP Committee.
+- **"More students are taking on crippling debt they can't repay--it's time for higher education to share the risks."** February 2018. Comment to Senate HELP Committee. [(link)](https://www.brookings.edu/articles/more-students-are-taking-on-crippling-debt-they-cant-repay-its-time-for-higher-education-to-share-the-risks/)
 
 ### 2017
 
-- **"The student loan crisis: A look at the data."** August 2017. The Brookings Institution.
+- **"The student loan crisis: A look at the data."** August 2017. The Brookings Institution. [(link)](https://www.brookings.edu/articles/the-student-loan-crisis-a-look-at-the-data/)
 
-- **"Understanding the sources of default and delinquency among student loan borrowers."** August 2017. The Brookings Institution.
+- **"Understanding the sources of default and delinquency among student loan borrowers."** August 2017. The Brookings Institution. [(link)](https://www.brookings.edu/articles/understanding-the-sources-of-default-and-delinquency-among-student-loan-borrowers/)
 
-- **"Gainful Employment regulations will protect students and taxpayers. Don't change them."** (with Stephanie Riegg Cellini, David Deming, and Jordan Matsudaira.) August 2017. Comment to Department of Education.
-
-- **"A Comparison between the College Scorecard and Mobility Report Cards."** January 2017. Treasury Notes. [(link)](https://www.treasury.gov/connect/blog/Pages/A-Comparison-between-the-College-Scorecard-and-Mobility-Report-Cards.aspx)
+- **"Gainful Employment regulations will protect students and taxpayers. Don't change them."** (with Stephanie Riegg Cellini, David Deming, and Jordan Matsudaira.) August 2017. Comment to Department of Education. [(link)](https://www.brookings.edu/articles/gainful-employment-regulations-will-protect-students-and-taxpayers-dont-change-them/)
 
 ### 2011
 
