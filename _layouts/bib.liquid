@@ -217,10 +217,14 @@
         {% endif %}
       {% endif %}
       {% if entry.pdf %}
+        {% assign pdf_text = "PDF" %}
+        {% if entry.pdf_label %}
+          {% assign pdf_text = entry.pdf_label %}
+        {% endif %}
         {% if entry.pdf contains '://' %}
-          <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">{% if entry.pdf_label %}{{ entry.pdf_label }}{% else %}PDF{% endif %}</a>
+          <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">{{ pdf_text }}</a>
         {% else %}
-          <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">{% if entry.pdf_label %}{{ entry.pdf_label }}{% else %}PDF{% endif %}</a>
+          <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">{{ pdf_text }}</a>
         {% endif %}
       {% endif %}
       {% if entry.supp %}
