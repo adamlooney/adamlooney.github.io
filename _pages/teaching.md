@@ -2,14 +2,11 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Courses taught at the University of Utah.
 nav: false
 nav_order: 16
-calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
-
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+I teach **QAMO 5140 — Applied Economic Analysis** in the David Eccles School of Business at the University of Utah.
 
 {% include courses.liquid %}

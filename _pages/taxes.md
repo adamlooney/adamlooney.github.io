@@ -8,7 +8,7 @@ nav: false
 
 ### 2020
 
-- **"Congress shouldn't give a $120 billion windfall to the top 1 percent as part of its COVID relief bill."** December 16, 2020. The Brookings Institution. [(link)](https://www.brookings.edu/opinions/congress-shouldnt-give-a-120-billion-windfall-to-the-top-1-percent-as-part-of-its-covid-relief-bill/)
+- **"Congress shouldn't give a $120 billion windfall to the top 1 percent as part of its COVID relief bill."** December 2020. The Brookings Institution. [(link)](https://www.brookings.edu/opinions/congress-shouldnt-give-a-120-billion-windfall-to-the-top-1-percent-as-part-of-its-covid-relief-bill/)
 
 - **"Congress is about to give a student-loan tax break that will only benefit the best-off borrowers."** March 2020. The Brookings Institution. [(link)](https://www.brookings.edu/articles/congress-is-about-to-give-a-student-loan-tax-break-that-will-only-benefit-the-best-off-borrowers/)
 
@@ -30,7 +30,7 @@ nav: false
 
 ### 2017
 
-- **"Winners and losers in the Tax Cuts and Jobs Act."** Brookings PodCast. (with Fred Dews.) December 22, 2017. [(link)](https://www.brookings.edu/articles/winners-and-losers-in-the-tax-cuts-and-jobs-act/)
+- **"Winners and losers in the Tax Cuts and Jobs Act."** (with Fred Dews.) December 2017. Brookings Podcast. [(link)](https://www.brookings.edu/articles/winners-and-losers-in-the-tax-cuts-and-jobs-act/)
 
 - **"Estimating the rising cost of a surprising tax shelter: the syndicated conservation easement."** December 2017. The Brookings Institution. [(link)](https://www.brookings.edu/articles/estimating-the-rising-cost-of-a-surprising-tax-shelter-the-syndicated-conservation-easement/)
 
@@ -60,14 +60,14 @@ nav: false
 
 ### Tax Policy Center Publications
 
-- **"On the Distributional Effects of Base-Broadening Income Tax Reform."** (with Samuel Brown and William G. Gale.) 2012. Tax Policy Center Research Report. [(link)](http://www.taxpolicycenter.org/sites/default/files/alfresco/publication-pdfs/1001628-On-the-Distributional-Effects-of-Base-Broadening-Income-Tax-Reform.PDF)
+- **"On the Distributional Effects of Base-Broadening Income Tax Reform."** (with Samuel Brown and William G. Gale.) 2012. Tax Policy Center Research Report. [(link)](https://www.taxpolicycenter.org/sites/default/files/alfresco/publication-pdfs/1001628-On-the-Distributional-Effects-of-Base-Broadening-Income-Tax-Reform.PDF)
 
-- **"TPC's Analysis of Governor Romney's Tax Proposals: A Follow-up Discussion."** Tax Policy Center. [(link)](http://www.taxpolicycenter.org/sites/default/files/alfresco/publication-pdfs/1001644-TPC-s-Analysis-of-Governor-Romney-s-Tax-Proposals-A-Follow-up-Discussion.PDF)
+- **"TPC's Analysis of Governor Romney's Tax Proposals: A Follow-up Discussion."** Tax Policy Center. [(link)](https://www.taxpolicycenter.org/sites/default/files/alfresco/publication-pdfs/1001644-TPC-s-Analysis-of-Governor-Romney-s-Tax-Proposals-A-Follow-up-Discussion.PDF)
 
-- **"Implications of Governor Romney's Tax Proposals: FAQs and Responses."** Tax Policy Center. [(link)](http://www.taxpolicycenter.org/sites/default/files/alfresco/publication-pdfs/1001631-Implications-of-Governor-Romney-s-Tax-Proposals-FAQs-and-Responses.PDF)
+- **"Implications of Governor Romney's Tax Proposals: FAQs and Responses."** Tax Policy Center. [(link)](https://www.taxpolicycenter.org/sites/default/files/alfresco/publication-pdfs/1001631-Implications-of-Governor-Romney-s-Tax-Proposals-FAQs-and-Responses.PDF)
 
-- **"Is the Mathematically Possible Politically Desirable?"** The Brookings Institution. [(link)](http://www.brookings.edu/research/opinions/2012/08/20-mathematically-possible-gale)
+- **"Is the Mathematically Possible Politically Desirable?"** The Brookings Institution. [(link)](https://www.brookings.edu/research/opinions/2012/08/20-mathematically-possible-gale)
 
-- **"Analysis Doesn't Refute TPC Findings, It Confirms Them."** Tax Policy Center. [(link)](http://www.taxpolicycenter.org/taxvox/feldsteins-analysis-doesnt-refute-tpc-findings-it-confirms-them)
+- **"Analysis Doesn't Refute TPC Findings, It Confirms Them."** Tax Policy Center. [(link)](https://www.taxpolicycenter.org/taxvox/feldsteins-analysis-doesnt-refute-tpc-findings-it-confirms-them)
 
-- **"The Debate over Expiring Tax Cuts: What about the Deficit?"** 2010. Tax Policy Center Research Report. [(link)](http://www.taxpolicycenter.org/sites/default/files/alfresco/publication-pdfs/1001438-The-Debate-over-Expiring-Tax-Cuts-What-about-the-Deficit-.PDF)
+- **"The Debate over Expiring Tax Cuts: What about the Deficit?"** 2010. Tax Policy Center Research Report. [(link)](https://www.taxpolicycenter.org/sites/default/files/alfresco/publication-pdfs/1001438-The-Debate-over-Expiring-Tax-Cuts-What-about-the-Deficit-.PDF)

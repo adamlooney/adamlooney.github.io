@@ -12,6 +12,6 @@ children:
     permalink: /student-loans/
   - title: taxes
     permalink: /taxes/
-  - title: other writing
+  - title: other policy writing
     permalink: /writing/
 ---

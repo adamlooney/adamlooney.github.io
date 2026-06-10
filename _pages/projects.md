@@ -1,10 +1,10 @@
 ---
 layout: page
-title: projects
+title: other projects
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false
-nav_order: 13
+description: Calculators, visualizations, and assorted side projects.
+nav: true
+nav_order: 5
 display_categories: [work, fun]
 horizontal: false
 ---

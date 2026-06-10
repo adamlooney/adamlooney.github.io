@@ -16,7 +16,7 @@ nav: false
 
 - **"Reauthorizing the Higher Education Act: Strengthening Accountability to Protect Students and Taxpayers."** U.S. Senate Committee on Health, Education, Labor and Pensions. April 10, 2019. [(link)](https://www.help.senate.gov/imo/media/doc/Looney.pdf)
 
-- **"Supporting Broad-Based Economic Growth and Fiscal Responsibility through Tax Reform."** United States Senate Committee on the Budget. May 22, 2013. [(link)](http://www.brookings.edu/research/testimony/2013/05/22-tax-reform-budget-committee-looney)
+- **"Supporting Broad-Based Economic Growth and Fiscal Responsibility through Tax Reform."** United States Senate Committee on the Budget. May 22, 2013. [(link)](https://www.brookings.edu/research/testimony/2013/05/22-tax-reform-budget-committee-looney)
 
 ---
 
