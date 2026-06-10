@@ -6,6 +6,8 @@ description: Op-eds, Hamilton Project publications, and other policy writing.
 nav: false
 ---
 
+- **"Increasing Concentration in the Era of Epic and Ikon: Are Skiers and Boarders Better or Worse Off?"** (with Travis Swiger.) Marriner S. Eccles Institute. [(link)](https://marriner.eccles.utah.edu/increasing-concentration-in-the-era-of-epic-and-ikon-are-skiers-and-boarders-better-or-worse-off/)
+
 - **"Non-Compete Agreements: Protecting Intellectual Property or Suppressing Labor Market Competition?"** (with Greyson Rynders.) Summary of Testimony before the Utah State Legislature's Business and Labor Interim Committee. [(link)](https://marriner.eccles.utah.edu/utahs-teen-triumph-the-states-enduring-high-teen-labor-force-participation-rate-cloned/)
 
 - **"What Can We Do About the Student Loan Crisis?"** Eccles Business Buzz Podcast. [(link)](https://redcircle.com/shows/9afeb3b8-2b13-4868-8651-69fb348962fe/ep/7698f65e-182b-4eba-b152-f215251d721a)
