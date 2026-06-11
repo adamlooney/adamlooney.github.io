@@ -18,34 +18,34 @@ nav: false
 
 - **"The true trade deficit."** (with Martin Neil Baily.) May 2017. The Wall Street Journal. [(link)](https://www.brookings.edu/articles/the-true-trade-deficit/)
 
-- **"Thirteen Economic Facts about Social Mobility and the Role of Education."** (with Michael Greenstone, Jeremy Patashnik, and Muxin Yu.) 2013. The Hamilton Project. [(link)](https://www.brookings.edu/~/media/research/files/reports/2013/06/13-facts-higher-education/thp_13econfacts_final.pdf)
+- **"Thirteen Economic Facts about Social Mobility and the Role of Education."** (with Michael Greenstone, Jeremy Patashnik, and Muxin Yu.) 2013. The Hamilton Project. [(link)](https://www.hamiltonproject.org/publication/economic-fact/thirteen-economic-facts-about-social-mobility-and-the-role-of-education/)
 
 - **"15 Ways to Rethink the Federal Budget, Introduction & eBook Download."** (edited with Michael Greenstone, Max Harris, Karen Li, and Jeremy Patashnik.) 2013. The Hamilton Project. [(link)](https://www.hamiltonproject.org/assets/files/fifteen_ways_to_rethink_the_federal_budget_full_book.pdf)
 
-- **"A Dozen Economic Facts About Tax Reform."** (with Michael Greenstone, Dmitri Koustas, Karen Li, and Leslie B. Samuels.) 2012. The Hamilton Project. [(link)](https://www.brookings.edu/~/media/research/files/papers/2012/5/03-taxes-greenstone-looney/05_taxes_greenstone_looney.pdf)
+- **"A Dozen Economic Facts About Tax Reform."** (with Michael Greenstone, Dmitri Koustas, Karen Li, and Leslie B. Samuels.) 2012. The Hamilton Project. [(link)](https://www.hamiltonproject.org/publication/economic-fact/a-dozen-economic-facts-about-tax-reform/)
 
 - **"The Uncomfortable Truth About American Wages."** (with Michael Greenstone.) October 2012. The New York Times, Economix. [(link)](https://economix.blogs.nytimes.com/2012/10/22/the-uncomfortable-truth-about-american-wages/)
 
-- **"The U.S. Immigration System: Potential Benefits of Reform."** (with Michael Greenstone and Harrison Marks.) 2012. The Hamilton Project. [(link)](https://www.brookings.edu/~/media/research/files/papers/2012/5/15-immigration-greenstone-looney/05_immigration_greenstone_looney.pdf)
+- **"The U.S. Immigration System: Potential Benefits of Reform."** (with Michael Greenstone and Harrison Marks.) 2012. The Hamilton Project. [(link)](https://www.hamiltonproject.org/publication/paper/the-u-s-immigration-system-potential-benefits-of-reform/)
 
-- **"A Dozen Economic Facts About Innovation."** (with Michael Greenstone.) 2012. The Hamilton Project. [(link)](https://www.brookings.edu/~/media/research/files/papers/2011/8/innovation-greenstone-looney/08_innovation_greenstone_looney.pdf)
+- **"A Dozen Economic Facts About Innovation."** (with Michael Greenstone.) 2012. The Hamilton Project. [(link)](https://www.hamiltonproject.org/publication/economic-fact/a-dozen-economic-facts-about-innovation/)
 
-- **"A Dozen Economic Facts About K-12 Education."** (with Michael Greenstone, Max Harris, Karen Li, and Jeremy Patashnik.) 2012. The Hamilton Project. [(link)](https://www.brookings.edu/~/media/research/files/papers/2012/9/27-education-facts/thp_12edfacts.pdf)
+- **"A Dozen Economic Facts About K-12 Education."** (with Michael Greenstone, Max Harris, Karen Li, and Jeremy Patashnik.) 2012. The Hamilton Project. [(link)](https://www.hamiltonproject.org/publication/economic-fact/a-dozen-economic-facts-about-k-12-education/)
 
-- **"Energy Policy Opportunities and Continuing Challenges in the Presence of Increased Supplies of Natural Gas and Petroleum."** (with Michael Greenstone, Dmitri Koustas, Karen Li, and Harrison Marks.) 2012. The Hamilton Project. [(link)](https://www.brookings.edu/~/media/research/files/papers/2012/6/13-energy-greenstone-looney/06_energy_greenstone_looney.pdf)
+- **"Energy Policy Opportunities and Continuing Challenges in the Presence of Increased Supplies of Natural Gas and Petroleum."** (with Michael Greenstone, Dmitri Koustas, Karen Li, and Harrison Marks.) 2012. The Hamilton Project. [(link)](https://www.hamiltonproject.org/publication/paper/energy-policy-opportunities-and-continuing-challenges-in-the-presence-of-increased-supplies-of-natural-gas-and-petroleum/)
 
-- **"The Immediate Jobs Crisis and Our Long-Run Labor Market Problem."** (with Gary Burtless.) 2012. Growth through Innovation. The Brookings Institution. [(link)](https://www.brookings.edu/~/media/research/files/papers/2012/1/13-jobs-burtless-looney/0113_gti_jobs_burtless_looney.pdf)
+- **"The Immediate Jobs Crisis and Our Long-Run Labor Market Problem."** (with Gary Burtless.) 2012. Growth through Innovation. The Brookings Institution. [(link)](https://www.brookings.edu/articles/the-immediate-jobs-crisis-and-our-long-run-labor-market-problem/)
 
 - **"The Real Costs of U.S. Energy."** (with Michael Greenstone.) June 2011. Politico. [(link)](https://www.politico.com/story/2011/06/the-real-costs-of-us-energy-057003)
 
-- **"Building America's Job Skills with Effective Workforce Programs: A Training Strategy to Raise Wages and Increase Work Opportunities."** (with Michael Greenstone.) 2011. The Hamilton Project. [(link)](https://www.brookings.edu/~/media/research/files/papers/2011/11/training-greenstone-looney/11_training_greenstone_looney.pdf)
+- **"Building America's Job Skills with Effective Workforce Programs: A Training Strategy to Raise Wages and Increase Work Opportunities."** (with Michael Greenstone.) 2011. The Hamilton Project. [(link)](https://www.hamiltonproject.org/publication/paper/building-americas-job-skills-with-effective-workforce-programs/)
 
-- **"Improving Student Outcomes: Restoring America's Education Potential."** (with Michael Greenstone and Paige Shevlin.) 2011. The Hamilton Project. [(link)](https://www.brookings.edu/~/media/research/files/papers/2011/9/education-greenstone-looney/092011_education_greenstone_looney_shevlin.pdf)
+- **"Improving Student Outcomes: Restoring America's Education Potential."** (with Michael Greenstone and Paige Shevlin.) 2011. The Hamilton Project. [(link)](https://www.hamiltonproject.org/publication/paper/improving-student-outcomes-restoring-americas-education-potential/)
 
 - **"Long-Stagnant Teacher Compensation Needs to be Upgraded."** (with Michael Greenstone.) November 2011. Los Angeles Times. [(link)](https://articles.latimes.com/2011/nov/14/opinion/la-oe-greenstone-looney-teacher-pay-20111114)
 
-- **"Investing in the Future: An Economic Strategy for State and Local Governments in a Period of Tight Budgets."** (with Michael Greenstone.) 2011. The Hamilton Project. [(link)](https://www.brookings.edu/~/media/research/files/papers/2011/2/state-budgets-greenstone-looney/02_state_budgets_greenstone_looney.pdf)
+- **"Investing in the Future: An Economic Strategy for State and Local Governments in a Period of Tight Budgets."** (with Michael Greenstone.) 2011. The Hamilton Project. [(link)](https://www.brookings.edu/research/investing-in-the-future-an-economic-strategy-for-state-and-local-governments-in-a-period-of-tight-budgets/)
 
-- **"An Economic Strategy To Renew American Communities."** (with Michael Greenstone.) 2010. The Hamilton Project. [(link)](https://www.brookings.edu/~/media/research/files/papers/2010/10/renew-communities-greenstone-looney/10_renew_communities_greenstone_looney.pdf)
+- **"An Economic Strategy To Renew American Communities."** (with Michael Greenstone.) 2010. The Hamilton Project. [(link)](https://www.hamiltonproject.org/publication/paper/an-economic-strategy-to-renew-american-communities/)
 
-- **"Ten Economic Facts about Immigration."** (with Michael Greenstone.) 2010. The Hamilton Project. [(link)](https://www.brookings.edu/~/media/research/files/reports/2010/9/immigration-greenstone-looney/09_immigration.pdf)
+- **"Ten Economic Facts about Immigration."** (with Michael Greenstone.) 2010. The Hamilton Project. [(link)](https://www.hamiltonproject.org/publication/economic-fact/ten-economic-facts-about-immigration/)

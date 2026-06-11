@@ -66,7 +66,7 @@ nav: false
 
 - **"Implications of Governor Romney's Tax Proposals: FAQs and Responses."** Tax Policy Center. [(link)](https://www.taxpolicycenter.org/sites/default/files/alfresco/publication-pdfs/1001631-Implications-of-Governor-Romney-s-Tax-Proposals-FAQs-and-Responses.PDF)
 
-- **"Is the Mathematically Possible Politically Desirable?"** The Brookings Institution. [(link)](https://www.brookings.edu/research/opinions/2012/08/20-mathematically-possible-gale)
+- **"Is the Mathematically Possible Politically Desirable?"** The Brookings Institution.
 
 - **"Analysis Doesn't Refute TPC Findings, It Confirms Them."** Tax Policy Center. [(link)](https://www.taxpolicycenter.org/taxvox/feldsteins-analysis-doesnt-refute-tpc-findings-it-confirms-them)
 

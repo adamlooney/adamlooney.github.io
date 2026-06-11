@@ -60,6 +60,6 @@ nav: false
 
 ### 2011
 
-- **"Where is the Best Place to Invest $102,000 -- In Stocks, Bonds, or a College Degree?"** (with Michael Greenstone.) 2011. The Hamilton Project. [(link)](https://www.brookings.edu/research/papers/2011/06/25-education-greenstone-looney)
+- **"Where is the Best Place to Invest $102,000 -- In Stocks, Bonds, or a College Degree?"** (with Michael Greenstone.) 2011. The Hamilton Project. [(link)](https://www.hamiltonproject.org/publication/post/where-is-the-best-place-to-invest-102000-in-stocks-bonds-or-a-college-degree/)
 
 - **"College: Expensive, But Still a Smart Choice."** (with Michael Greenstone.) August 2011. Los Angeles Times. [(link)](https://articles.latimes.com/2011/aug/15/opinion/la-oe-looney-greenstone-is-college-wo20110815)
