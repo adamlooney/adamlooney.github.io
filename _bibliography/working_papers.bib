@@ -4,40 +4,43 @@
 % ============================================================================
 % WORKING PAPERS / WORK IN PROGRESS
 % Shown on the /working-papers/ page (separate from the research page, which
-% reads papers.bib). Add `html = {...}` or `pdf = {...}` links as papers become
-% available. The first three titles are provisional placeholders — update them.
+% reads papers.bib).
+%
+% Conventions for this file:
+%   - hide_date = {true} suppresses the displayed year (page shows an undated
+%     list). Keep the year field anyway: entries sort newest-year-first, and
+%     FILE ORDER breaks ties within a year — so to reorder papers within the
+%     same year, reorder them here.
+%   - pdf = {wp/<file>.pdf} points into assets/pdf/wp/ (robots-disallowed).
+%   - Keep keys unique across this file and papers.bib.
 % ============================================================================
 
-@unpublished{looney2026costperjob,
+@unpublished{looney2026refi,
   abbr      = {WP},
-  title     = {How Much Should Government Pay to Save a Job?},
+  title     = {How Much Is the Option to Refinance Worth, and Who Captures the Realized Gains?},
   author    = {Looney, Adam},
   year      = {2026},
-  note      = {Working Paper}
+  hide_date = {true},
+  website   = {/data/mortgage-option-value/}
 }
 
-@unpublished{looney2026equivalencescale,
+@unpublished{looney2026marathons,
   abbr      = {WP},
-  title     = {A Revealed-Preference Approach to Equivalence Scales},
+  title     = {High-Stakes Performance Thresholds, Venue Choice, and the Market for Downhill Marathons},
   author    = {Looney, Adam},
   year      = {2026},
-  note      = {Working Paper}
+  hide_date = {true},
+  pdf       = {wp/looney-downhill-marathons.pdf}
 }
 
-@unpublished{looney2026laffer,
+@unpublished{looney2026globalfertility,
   abbr      = {WP},
-  title     = {The Laffer Curve Within the Support of the Data},
+  title     = {Smaller Families and the Fall in Global Absolute Poverty},
   author    = {Looney, Adam},
   year      = {2026},
-  note      = {Working Paper}
-}
-
-@unpublished{looney2023fertility,
-  abbr      = {WP},
-  title     = {Declining Fertility, Child Poverty, and the Wellbeing of Families and Children},
-  author    = {Looney, Adam},
-  year      = {2023},
-  note      = {Working Paper}
+  hide_date = {true},
+  pdf       = {wp/looney-global-fertility.pdf},
+  code      = {https://github.com/adamlooney/global-fertility-poverty}
 }
 
 @unpublished{looney2026eitcwelfare,
@@ -45,8 +48,45 @@
   title     = {Welfare Reform and the Earned Income Tax Credit in the 1990s},
   author    = {Looney, Adam},
   year      = {2026},
-  note      = {Working Paper},
+  hide_date = {true},
+  pdf       = {wp/looney-eitc-welfare-reform.pdf},
   code      = {https://github.com/adamlooney/looney-eitc-welfare-reform}
+}
+
+@unpublished{looney2026fertilitydividend,
+  abbr      = {WP},
+  title     = {The Fertility Dividend: Family Size and the Decline in Child Poverty},
+  author    = {Looney, Adam},
+  year      = {2026},
+  hide_date = {true},
+  pdf       = {wp/looney-fertility-dividend.pdf},
+  supp      = {wp/looney-fertility-dividend-appendix.pdf},
+  code      = {https://github.com/adamlooney/looney-fertility-poverty}
+}
+
+@unpublished{coyne2026ppp,
+  abbr      = {WP},
+  title     = {Who Profited from the PPP? An Analysis of Business Owners},
+  author    = {Coyne, David and Isen, Adam and Looney, Adam},
+  year      = {2026},
+  hide_date = {true}
+}
+
+@unpublished{looney2026costperjob,
+  abbr      = {WP},
+  title     = {How Much Should Government Pay to Save a Job?},
+  author    = {Looney, Adam},
+  year      = {2026},
+  hide_date = {true}
+}
+
+@unpublished{ahmed2025citationindex,
+  abbr      = {WP},
+  title     = {A Citation Index for Federal Regulations},
+  author    = {Ahmed, Shagufta and Looney, Adam},
+  year      = {2025},
+  hide_date = {true},
+  pdf       = {wp/ahmed-looney-citation-index.pdf}
 }
 
 @unpublished{harris2018effectivetaxrates,
@@ -54,5 +94,5 @@
   title     = {Explaining Trends in Effective Tax Rates},
   author    = {Harris, Ben and Looney, Adam},
   year      = {2018},
-  note      = {Working Paper}
+  hide_date = {true}
 }

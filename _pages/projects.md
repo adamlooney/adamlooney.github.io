@@ -2,64 +2,21 @@
 layout: page
 title: other projects
 permalink: /projects/
-description: Calculators, visualizations, and assorted side projects.
+description: Essays, calculators, and assorted side projects.
 nav: true
 nav_order: 5
-display_categories: [work, fun]
-horizontal: false
+noindex: true
+sitemap: false
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
+<!-- _pages/projects.md -->
+<!-- A plain list, like the research and working-papers pages: title with a link.
+     PDFs live in /assets/pdf/projects/ (robots-disallowed). Add new items as
+     bullets; keep newest or most interesting first. -->
 
-{% else %}
-
-<!-- Display projects without categories -->
-
-{% assign sorted_projects = site.projects | sort: "importance" %}
-
-  <!-- Generate cards for each project -->
-
-{% if page.horizontal %}
-
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
-</div>
+- **[Marathon Course Converter](/marathon/)** — How fast is your marathon course? Look up any of 1,000+ courses and convert your finish time between them, estimated from 17 million race results holding the runner, year, age, and weather constant.
+- **[How Improbable Was DiMaggio's 56-Game Hitting Streak?](/assets/pdf/projects/looney-dimaggio-streak.pdf)** — A formula for the probability of the most "unbreakable" record in sports.
+- **[The Powder Tax: The Real Bottleneck in Utah's Ski Traffic Isn't on the Road](/assets/pdf/projects/congestion-in-utah-canyons.pdf)** — Measuring the Wasatch's congestion crisis with the help of a Snowbird legend who serves as a standard candle for lift lines.
+- **[What's the Best Ski Lift in North America?](/assets/pdf/projects/best-lift.pdf)** — A universal, geometry-based measure of what a lift actually delivers, computed for every lift on the continent.
+- **[Should You Take the Singles Line?](/assets/pdf/projects/singles-line.pdf)** — A probability-theory answer to skiing's most contentious etiquette question.
+- **[Increasing Concentration in the Era of Epic and Ikon: Are Skiers and Boarders Better or Worse Off?](https://marriner.eccles.utah.edu/increasing-concentration-in-the-era-of-epic-and-ikon-are-skiers-and-boarders-better-or-worse-off/)** (with Travis Swiger) — Marriner S. Eccles Institute brief on consolidation in the ski industry.

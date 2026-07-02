@@ -186,3 +186,11 @@
 .citation-number {
   color: var(--global-theme-color);
 }
+
+// Working-papers page: suppress the year group headings (entries still sort by
+// year internally; the page shows an undated list).
+.wp-list {
+  h2.bibliography {
+    display: none;
+  }
+}

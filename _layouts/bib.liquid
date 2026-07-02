@@ -161,11 +161,11 @@
       {% capture entrytype %}{% endcapture %}
     {% endif %}
     {% assign entrymonth = '' %}
-    {% if entry.month %}
+    {% if entry.month and entry.hide_date != 'true' %}
       {% capture entrymonth %}{{ " " }}{{ entry.month | capitalize }}{% endcapture %}
     {% endif %}
     {% assign entryyear = '' %}
-    {% if entry.year %}
+    {% if entry.year and entry.hide_date != 'true' %}
       {% capture entryyear %}{{ " " }}{{ entry.year }}{% endcapture %}
     {% endif %}
     {% if entry.location %}
