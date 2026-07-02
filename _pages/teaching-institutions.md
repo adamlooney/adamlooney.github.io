@@ -8,7 +8,7 @@ sitemap: false
 ---
 
 **University of Utah · David Eccles School of Business**
-Instructor: Adam Looney · Tuesday/Thursday, 75 minutes · 3 credits · no prerequisites
+Instructor: Adam Looney ([adam.looney@eccles.utah.edu](mailto:adam.looney@eccles.utah.edu)) · Tuesday/Thursday, 75 minutes · 3 credits · no prerequisites
 Satisfies the General Education American Institutions requirement.
 
 ## Course description
