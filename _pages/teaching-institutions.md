@@ -1,15 +1,13 @@
 ---
 layout: page
 permalink: /teaching/institutions/
-title: "ECON 1740 — The American Economy"
+title: "The American Economy"
 description: "Markets, Institutions, and Modern Prosperity"
 nav: false
 sitemap: false
 ---
 
-**University of Utah · David Eccles School of Business**
-Instructor: Adam Looney ([adam.looney@eccles.utah.edu](mailto:adam.looney@eccles.utah.edu)) · Tuesday/Thursday, 75 minutes · 3 credits · no prerequisites
-Satisfies the General Education American Institutions requirement.
+*A proposed General Education course, under discussion. These draft materials are a mock-up of how the course could look if adopted; they are not a current course offering.*
 
 ## Course description
 
