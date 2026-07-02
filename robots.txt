@@ -1,4 +1,5 @@
 User-agent: *
-Disallow:
+Disallow: /assets/pdf/wp/
+Disallow: /assets/pdf/projects/
 
 Sitemap: https://adamlooney.com/sitemap.xml

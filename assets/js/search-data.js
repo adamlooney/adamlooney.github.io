@@ -53,10 +53,17 @@ ninja.data = [{
               },
             },{id: "nav-other-projects",
           title: "other projects",
-          description: "Calculators, visualizations, and assorted side projects.",
+          description: "Essays, calculators, and assorted side projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
+          },
+        },{id: "nav-data",
+          title: "data",
+          description: "Replication code and data for my research.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/data/";
           },
         },{id: "nav-cv",
           title: "cv",
@@ -70,26 +77,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-dimaggio-39-s-streak",
-          title: 'DiMaggio&amp;#39;s Streak',
-          description: "How improbable was the 56-game hitting streak? — placeholder, coming soon.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_dimaggios_streak/";
-            },},{id: "projects-marathon-course-converter",
-          title: 'Marathon Course Converter',
-          description: "How fast is your marathon course? Look up any of 1,000+ courses and convert your finish time between them — estimated from 17 million race results.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_marathon_calculator/";
-            },},{id: "projects-skiing-amp-outdoor-projects",
-          title: 'Skiing &amp;amp; Outdoor Projects',
-          description: "Lift wait times, singles lines, and other mountain data projects — placeholder, coming soon.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_ski_outdoor/";
-            },},{id: "projects-mortgage-option-value-calculator",
-          title: 'Mortgage Option-Value Calculator',
-          description: "When is refinancing worth it? — placeholder, coming soon.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_mortgage_option_value/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
