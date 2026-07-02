@@ -2,7 +2,7 @@
 layout: page
 title: the fertility dividend
 permalink: /data/fertility-dividend/
-description: Replication package for "The Fertility Dividend: Family Size and the Decline in Child Poverty"
+description: 'Replication package for "The Fertility Dividend: Family Size and the Decline in Child Poverty"'
 nav: false
 ---
 

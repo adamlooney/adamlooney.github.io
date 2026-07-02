@@ -17,3 +17,5 @@ CUSTOMIZE.md
 # Hand-formatted content pages; prettier's markdown rewrapping isn't wanted here
 _pages/mortgage-option-value.md
 _pages/teaching-institutions.md
+# Marathon course-converter app: hand-built static tool + generated data files
+marathon/**
