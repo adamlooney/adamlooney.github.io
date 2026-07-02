@@ -14,3 +14,6 @@ _data/citations.yml
 # Ignore al-folio template files with long-standing formatting that doesn't affect rendering
 _layouts/bib.liquid
 CUSTOMIZE.md
+# Hand-formatted content pages; prettier's markdown rewrapping isn't wanted here
+_pages/mortgage-option-value.md
+_pages/teaching-institutions.md
