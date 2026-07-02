@@ -7,7 +7,9 @@ nav: false
 sitemap: false
 ---
 
-*Proposed redesign of ECON 1740. These are draft materials prepared for faculty discussion, not a current course offering. Comments welcome: [alooney@gmail.com](mailto:alooney@gmail.com).*
+**University of Utah · David Eccles School of Business**
+Instructor: Adam Looney · Tuesday/Thursday, 75 minutes · 3 credits · no prerequisites
+Satisfies the General Education American Institutions requirement.
 
 ## Course description
 
@@ -15,70 +17,64 @@ For most of human history, ordinary people were poor, sick, and short-lived. The
 
 Each class is organized around a single chart, an economic concept, and an American institution. The charts are facts that require explanation: GDP per capita since 1500, the price of enslaved people before the Civil War, women's labor-force participation over the twentieth century, intergenerational mobility by birth cohort, federal debt projected through 2055. The concepts are the tools economists use to explain them: compounding, property rights, human capital, comparative advantage, externalities, moral hazard. The institutions are the rules that structure American economic life: the Constitution's economic clauses, the patent system, the 13th Amendment, public schools, immigration law, the Sherman Act, Social Security, the Federal Reserve. Historical episodes are paired with current policy questions throughout, and students practice reading empirical evidence critically: what is the comparison, what is the counterfactual, and how could this chart mislead?
 
-The course satisfies the General Education American Institutions requirement, which calls for an understanding of the history, principles, form of government, and economic system of the United States (Utah Code 53B-16-103). It is aimed at students who are not economics majors. There are no prerequisites and no required textbook; all readings are short, free, and posted to Canvas.
+There is no required textbook; all readings are short, free, and posted to Canvas.
 
-## Course materials
+## Course documents
 
-- [Syllabus (pdf)](/assets/pdf/econ1740/econ1740-syllabus.pdf) — course description, learning outcomes, schedule, readings, and proposed assessments
-- [Class outlines, one page per class (pdf)](/assets/pdf/econ1740/econ1740-class-pages.pdf)
-- [Overview memo (pdf)](/assets/pdf/econ1740/econ1740-overview-memo.pdf) — a short summary of the proposal for colleagues
-<!-- Uncomment once the compiled deck PDF is exported from Overleaf into assets/pdf/econ1740/:
-- [Slides (pdf)](/assets/pdf/econ1740/econ1740-deck.pdf)
--->
+- [Syllabus (pdf)](/assets/pdf/econ1740/econ1740-syllabus.pdf)
+- [Class outlines — one page per class (pdf)](/assets/pdf/econ1740/econ1740-class-pages.pdf)
 
-Full lecture notes for each class are available on request.
-
-## Schedule of classes
+## Schedule, slides, and readings
 
 #### Part I — The Growth Miracle
 
-| # | Topic | Reading |
-| --- | --- | --- |
-| 1 | The American Economy in 25 Charts | Our World in Data, "Economic Growth" |
-| 2 | GDP, Living Standards, and Welfare | Deaton, *The Great Escape* (excerpt) |
-| 3 | The Recipe for Growth | Bloom, Jones, Van Reenen, and Webb, "Are Ideas Getting Harder to Find?" (introduction) |
-| 4 | Liberty and the Rules of the Game | Magna Carta (cl. 39); Locke (excerpt); North, "Institutions" (*JEP* 1991) |
-| 5 | The Constitution as an Economic Document | Constitution, Art. I §8, §10, Amendments I and V; Hamilton, *First Report on Public Credit* (excerpt) |
-| 6 | Why Nations Diverge | Acemoglu, Johnson, and Robinson (2001) (summary); Diamond (excerpt) |
+| # | Topic | Slides | Reading |
+| --- | --- | --- | --- |
+| 1 | The American Economy in 25 Charts | [slides](/assets/pdf/econ1740/slides/econ1740-class01-slides.pdf) | Our World in Data, "Economic Growth" |
+| 2 | GDP, Living Standards, and Welfare | [slides](/assets/pdf/econ1740/slides/econ1740-class02-slides.pdf) | Deaton, *The Great Escape* (excerpt) |
+| 3 | The Recipe for Growth | [slides](/assets/pdf/econ1740/slides/econ1740-class03-slides.pdf) | Bloom, Jones, Van Reenen, and Webb, "Are Ideas Getting Harder to Find?" (introduction) |
+| 4 | Liberty and the Rules of the Game | [slides](/assets/pdf/econ1740/slides/econ1740-class04-slides.pdf) | Magna Carta (cl. 39); Locke (excerpt); North, "Institutions" (*JEP* 1991) |
+| 5 | The Constitution as an Economic Document | [slides](/assets/pdf/econ1740/slides/econ1740-class05-slides.pdf) | Constitution, Art. I §8, §10, Amendments I and V; Hamilton, *First Report on Public Credit* (excerpt) |
+| 6 | Why Nations Diverge | [slides](/assets/pdf/econ1740/slides/econ1740-class06-slides.pdf) | Acemoglu, Johnson, and Robinson (2001) (summary); Diamond (excerpt) |
 
 #### Part II — Building the American Growth Machine
 
-| # | Topic | Reading |
-| --- | --- | --- |
-| 7 | Land, Rails, and the National Market | Donaldson and Hornbeck (2016) (nontechnical summary) |
-| 8 | The American Invention Machine | Bell, Chetty, Jaravel, Petkova, and Van Reenen, "Who Becomes an Inventor in America?" (summary) |
-| 9 | Factories, Firms, and Scale | Atack, Margo, and Rhode (*JEP* 2019) |
-| 10 | Productivity and Wages | Stansbury and Summers, "Productivity and Pay" |
-| — | *Midterm essay exam (week 8)* | |
+| # | Topic | Slides | Reading |
+| --- | --- | --- | --- |
+| 7 | Land, Rails, and the National Market | [slides](/assets/pdf/econ1740/slides/econ1740-class07-slides.pdf) | Donaldson and Hornbeck (2016) (nontechnical summary) |
+| 8 | The American Invention Machine | [slides](/assets/pdf/econ1740/slides/econ1740-class08-slides.pdf) | Bell, Chetty, Jaravel, Petkova, and Van Reenen, "Who Becomes an Inventor in America?" (summary) |
+| 9 | Factories, Firms, and Scale | [slides](/assets/pdf/econ1740/slides/econ1740-class09-slides.pdf) | Atack, Margo, and Rhode (*JEP* 2019) |
+| 10 | Productivity and Wages | [slides](/assets/pdf/econ1740/slides/econ1740-class10-slides.pdf) | Stansbury and Summers, "Productivity and Pay" |
+
+*Midterm essay exam (week 8).*
 
 #### Part III — Mobilizing People and Expanding Opportunity
 
-| # | Topic | Reading |
-| --- | --- | --- |
-| 11 | Free and Coerced Labor | Wright, "Slavery and the Rise of the Nineteenth-Century American Economy" (*JEP* 2022); 13th Amendment |
-| 12 | Labor Markets and Worker Power | Farber, Herbst, Kuziemko, and Naidu, "Unions and Inequality" (summary) |
-| 13 | Education and Human Capital | Goldin and Katz, *The Race between Education and Technology* (excerpt) |
-| 14 | Immigration and Assimilation | Abramitzky and Boustan, *Streets of Gold* (excerpt) |
-| 15 | Women, Work, and Family | Goldin, "The Quiet Revolution" (excerpt) |
-| 16 | Race, Migration, and Opportunity | Derenoncourt, "Can You Move to Opportunity?" (summary) |
-| 17 | Cities, Housing, and Path Dependence | Hsieh and Moretti (summary); Gardner Institute housing brief |
-| 18 | The American Dream and Mobility | Chetty et al., "The Fading American Dream" (*Science* 2017) |
+| # | Topic | Slides | Reading |
+| --- | --- | --- | --- |
+| 11 | Free and Coerced Labor | [slides](/assets/pdf/econ1740/slides/econ1740-class11-slides.pdf) | Wright, "Slavery and the Rise of the Nineteenth-Century American Economy" (*JEP* 2022); 13th Amendment |
+| 12 | Labor Markets and Worker Power | [slides](/assets/pdf/econ1740/slides/econ1740-class12-slides.pdf) | Farber, Herbst, Kuziemko, and Naidu, "Unions and Inequality" (summary) |
+| 13 | Education and Human Capital | [slides](/assets/pdf/econ1740/slides/econ1740-class13-slides.pdf) | Goldin and Katz, *The Race between Education and Technology* (excerpt) |
+| 14 | Immigration and Assimilation | [slides](/assets/pdf/econ1740/slides/econ1740-class14-slides.pdf) | Abramitzky and Boustan, *Streets of Gold* (excerpt) |
+| 15 | Women, Work, and Family | [slides](/assets/pdf/econ1740/slides/econ1740-class15-slides.pdf) | Goldin, "The Quiet Revolution" (excerpt) |
+| 16 | Race, Migration, and Opportunity | [slides](/assets/pdf/econ1740/slides/econ1740-class16-slides.pdf) | Derenoncourt, "Can You Move to Opportunity?" (summary) |
+| 17 | Cities, Housing, and Path Dependence | [slides](/assets/pdf/econ1740/slides/econ1740-class17-slides.pdf) | Hsieh and Moretti (summary); Gardner Institute housing brief |
+| 18 | The American Dream and Mobility | [slides](/assets/pdf/econ1740/slides/econ1740-class18-slides.pdf) | Chetty et al., "The Fading American Dream" (*Science* 2017) |
 
 #### Part IV — Governing Capitalism's Consequences
 
-| # | Topic | Reading |
-| --- | --- | --- |
-| 19 | Trade, Tariffs, and Globalization | Autor, Dorn, and Hanson, "The China Syndrome" (summary) |
-| 20 | Market Power and Antitrust | Sherman Act §§1–2; FTC, "The Antitrust Laws" |
-| 21 | The Useful State: Public Goods and State Capacity | CDC, "Ten Great Public Health Achievements" |
-| 22 | Fiscal Capacity: Taxes, Insurance, and Debt | CBO, *The Long-Term Budget Outlook* (summary) |
-| 23 | Money, Banking, and Crises | Bernanke, "Money, Gold, and the Great Depression" |
-| 24 | Health, Environment, and Externalities | EPA, *Our Nation's Air* (highlights) |
-| 25 | AI and the Institutions of Progress | Goolsbee and Syverson, "Productivity in the U.S. Construction Sector" (introduction) |
-| — | *Final essay exam (finals week)* | |
+| # | Topic | Slides | Reading |
+| --- | --- | --- | --- |
+| 19 | Trade, Tariffs, and Globalization | [slides](/assets/pdf/econ1740/slides/econ1740-class19-slides.pdf) | Autor, Dorn, and Hanson, "The China Syndrome" (summary) |
+| 20 | Market Power and Antitrust | [slides](/assets/pdf/econ1740/slides/econ1740-class20-slides.pdf) | Sherman Act §§1–2; FTC, "The Antitrust Laws" |
+| 21 | The Useful State: Public Goods and State Capacity | [slides](/assets/pdf/econ1740/slides/econ1740-class21-slides.pdf) | CDC, "Ten Great Public Health Achievements" |
+| 22 | Fiscal Capacity: Taxes, Insurance, and Debt | [slides](/assets/pdf/econ1740/slides/econ1740-class22-slides.pdf) | CBO, *The Long-Term Budget Outlook* (summary) |
+| 23 | Money, Banking, and Crises | [slides](/assets/pdf/econ1740/slides/econ1740-class23-slides.pdf) | Bernanke, "Money, Gold, and the Great Depression" |
+| 24 | Health, Environment, and Externalities | [slides](/assets/pdf/econ1740/slides/econ1740-class24-slides.pdf) | EPA, *Our Nation's Air* (highlights) |
+| 25 | AI and the Institutions of Progress | [slides](/assets/pdf/econ1740/slides/econ1740-class25-slides.pdf) | Goolsbee and Syverson, "Productivity in the U.S. Construction Sector" (introduction) |
 
-Assessment (proposed): weekly chart-interpretation quizzes (20%), two short policy memos (20%), two structured debates (10%), midterm essay exam (20%), final essay exam (25%), participation (5%). Details are in the syllabus.
+*Final essay exam, finals week.*
 
----
+## Assessment
 
-*Last updated July 2026.*
+Weekly chart-interpretation quizzes (20%), two short policy memos (20%), two structured debates (10%), midterm essay exam (20%), final essay exam (25%), participation (5%). Details in the [syllabus](/assets/pdf/econ1740/econ1740-syllabus.pdf).
