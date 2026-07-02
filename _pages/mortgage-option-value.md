@@ -11,12 +11,10 @@ Adam Looney · working paper, 2026
 
 A 30-year fixed-rate mortgage is cheaper than its contract rate suggests: the borrower can refinance into a cheaper loan if rates fall and keep the old one if they rise. This paper prices that option from the borrower's side in every month since 1990, compares it with what the market charges for the same prepayment risk, and measures the gains households actually realized by exercising it as rates fell — and who captured them. The option lowers expected financing cost by about a third of a percentage point on average, and by more than a full point when rates are high; exercising it delivered households roughly **\$3.3 trillion** in present-value gains over 1990–2024, a windfall recorded in no income or wealth statistic and shared unevenly across income and race.
 
-**Replication code:** [github.com/adamlooney/refinancing-option-replication](https://github.com/adamlooney/refinancing-option-replication)
-&nbsp;·&nbsp; **Paper:** *(PDF coming soon)*
-&nbsp;·&nbsp; **DOI:** *(minted via Zenodo on first release)*
+**Paper:** [PDF](/assets/pdf/wp/looney-mortgage-option-value.pdf)
+&nbsp;·&nbsp; **Replication code:** [github.com/adamlooney/refinancing-option-replication](https://github.com/adamlooney/refinancing-option-replication)
 
-<!-- TODO: replace "PDF coming soon" with the paper link, and add the Zenodo DOI
-     once the GitHub repo is public and a release is cut. -->
+<!-- TODO: add the Zenodo DOI once minted from the v1.0.0 release. -->
 
 ## What's included
 
