@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Marathon Course Converter</title>
+<meta name="description" content="Compare marathon course speeds and convert your finish time between courses, based on 17 million race results.">
+<meta property="og:title" content="Marathon Course Converter">
+<meta property="og:description" content="How fast is your marathon course? Convert your time between any two of 1,000+ marathon courses.">
+<link rel="stylesheet" href="app.css">
+<script src="https://cdn.plot.ly/plotly-2.35.2.min.js" charset="utf-8"></script>
+</head>
+<body>
+<main class="wrap">
+
+  <header class="hero">
+    <h1>Marathon Course Converter</h1>
+    <p class="sub">Course speeds estimated from <strong>17 million finishes</strong> on
+    <strong><span id="n-courses">1,000+</span> marathon courses</strong>, holding the runner,
+    the year, age, and weather constant. Look up how fast a course really is, or convert
+    your time from one course to another.</p>
+  </header>
+
+  <!-- ============ SECTION 1: COURSE EXPLORER ============ -->
+  <section class="card" id="explorer">
+    <h2>How fast is your course?</h2>
+    <div class="search-row">
+      <div class="typeahead" id="ta-explore">
+        <input type="text" placeholder="Search a marathon&hellip; (e.g. NYC, Chicago, CIM)" autocomplete="off" spellcheck="false">
+        <div class="ta-list" hidden></div>
+      </div>
+      <label class="toggle"><input type="checkbox" id="us-only"> US only</label>
+    </div>
+
+    <div id="course-card" class="result" hidden>
+      <div class="headline" id="course-headline"></div>
+      <div class="chips" id="course-chips"></div>
+    </div>
+
+    <div id="dist-chart" class="chart"></div>
+    <p class="footnote">Distribution of course speeds relative to Boston (0%). Negative = faster course.
+    Minutes shown elsewhere are scaled to a 3:20 finisher.</p>
+  </section>
+
+  <!-- ============ SECTION 2: TIME CONVERTER ============ -->
+  <section class="card" id="converter">
+    <h2>Convert your time between courses</h2>
+
+    <form id="conv-form" onsubmit="return false;">
+      <div class="grid">
+        <div class="field span2">
+          <label>Race you ran</label>
+          <div class="typeahead" id="ta-origin">
+            <input type="text" placeholder="e.g. Chicago Marathon" autocomplete="off" spellcheck="false">
+            <div class="ta-list" hidden></div>
+          </div>
+        </div>
+        <div class="field">
+          <label>Your finish time</label>
+          <div class="hms">
+            <input type="number" id="t-h" min="2" max="9" placeholder="H" inputmode="numeric">:
+            <input type="number" id="t-m" min="0" max="59" placeholder="MM" inputmode="numeric">:
+            <input type="number" id="t-s" min="0" max="59" placeholder="SS" inputmode="numeric">
+          </div>
+        </div>
+        <div class="field">
+          <label>Gender</label>
+          <div class="seg" id="gender-seg">
+            <button type="button" data-v="F">Women</button>
+            <button type="button" data-v="M" class="on">Men</button>
+          </div>
+        </div>
+        <div class="field span2">
+          <label>Race you want to predict</label>
+          <div class="typeahead" id="ta-target">
+            <input type="text" placeholder="e.g. Boston Marathon" autocomplete="off" spellcheck="false">
+            <div class="ta-list" hidden></div>
+          </div>
+        </div>
+        <div class="field">
+          <label>Age then</label>
+          <input type="number" id="age-o" min="18" max="90" placeholder="e.g. 38" inputmode="numeric">
+        </div>
+        <div class="field">
+          <label>Age on race day</label>
+          <input type="number" id="age-t" min="18" max="90" placeholder="same" inputmode="numeric">
+        </div>
+      </div>
+      <button class="go" id="convert-btn" type="button">Convert</button>
+      <div class="err" id="conv-err" hidden></div>
+    </form>
+
+    <div id="conv-result" class="result" hidden>
+      <div class="pred-line">Predicted time at <span id="pred-race"></span></div>
+      <div class="pred-time" id="pred-time"></div>
+      <div class="chips" id="pred-chips"></div>
+
+      <div class="bands">
+        <div class="band-row"><span class="band-label">Half of runners land between</span>
+          <span class="band-val" id="band50"></span></div>
+        <div class="band-row"><span class="band-label">90% of runners land between</span>
+          <span class="band-val" id="band90"></span></div>
+      </div>
+      <p class="footnote">Ranges are measured from millions of runners who raced again within 18 months
+      &mdash; they mostly reflect how much <em>runners</em> vary (fitness, race execution, weather),
+      not uncertainty about the courses: repeat performances by the same runner <em>on the same course</em>
+      vary nearly this much. The range is asymmetric because a bad marathon loses more time than a
+      great one gains.</p>
+
+      <div id="bq-box" class="bq" hidden></div>
+
+      <h3>The same performance at other ages</h3>
+      <div id="age-chart" class="chart"></div>
+      <p class="footnote">Equivalent finish times for this performance at <span id="age-race"></span>
+      across ages, from the estimated age&ndash;gender curve.</p>
+    </div>
+  </section>
+
+  <!-- ============ METHODS ============ -->
+  <section class="card methods">
+    <h2>How this works</h2>
+    <p>Every estimate comes from a statistical model fit to 17 million marathon results
+    (2000&ndash;2026): each finish is decomposed into a runner&rsquo;s ability, the course, the year,
+    an age&ndash;gender curve, and race-day weather. A course&rsquo;s <em>speed</em> is how much faster or
+    slower the same runner runs on it compared to the Boston Marathon. Conversions cancel out the
+    runner entirely &mdash; only the course gap and the age curve are applied to your time, at
+    neutral weather.</p>
+    <p>Point estimates of course speed are precise (typical standard error under 1%). The prediction
+    ranges are honest about something different: how much any runner&rsquo;s next marathon varies. That
+    spread is real &mdash; the same runner repeating the same course a year later varies nearly as much
+    &mdash; and it is skewed slow (blow-ups happen; miracle days mostly don&rsquo;t).</p>
+    <p>This is a companion tool to an academic paper on marathon course speed and Boston qualifying.
+    Course effects are population averages and not a guarantee of individual results.
+    <span id="vintage"></span></p>
+  </section>
+
+  <footer class="foot">
+    <span>&copy; <a href="https://adamlooney.com">Adam Looney</a></span>
+    <span id="selftest"></span>
+  </footer>
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>

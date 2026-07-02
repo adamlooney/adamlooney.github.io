@@ -75,9 +75,9 @@ ninja.data = [{
           description: "How improbable was the 56-game hitting streak? — placeholder, coming soon.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_dimaggios_streak/";
-            },},{id: "projects-marathon-time-calculator",
-          title: 'Marathon Time Calculator',
-          description: "Predict your finish time and pacing — placeholder, coming soon.",
+            },},{id: "projects-marathon-course-converter",
+          title: 'Marathon Course Converter',
+          description: "How fast is your marathon course? Look up any of 1,000+ courses and convert your finish time between them — estimated from 17 million race results.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_marathon_calculator/";
             },},{id: "projects-skiing-amp-outdoor-projects",
