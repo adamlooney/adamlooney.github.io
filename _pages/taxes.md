@@ -66,8 +66,6 @@ nav: false
 
 - **"Implications of Governor Romney's Tax Proposals: FAQs and Responses."** Tax Policy Center. [(link)](https://www.taxpolicycenter.org/sites/default/files/alfresco/publication-pdfs/1001631-Implications-of-Governor-Romney-s-Tax-Proposals-FAQs-and-Responses.PDF)
 
-- **"Is the Mathematically Possible Politically Desirable?"** The Brookings Institution.
-
 - **"Analysis Doesn't Refute TPC Findings, It Confirms Them."** Tax Policy Center. [(link)](https://www.taxpolicycenter.org/taxvox/feldsteins-analysis-doesnt-refute-tpc-findings-it-confirms-them)
 
 - **"The Debate over Expiring Tax Cuts: What about the Deficit?"** 2010. Tax Policy Center Research Report. [(link)](https://www.taxpolicycenter.org/sites/default/files/alfresco/publication-pdfs/1001438-The-Debate-over-Expiring-Tax-Cuts-What-about-the-Deficit-.PDF)
