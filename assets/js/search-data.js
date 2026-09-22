@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/research/";
           },
-        },{id: "nav-working-papers",
-          title: "working papers",
-          description: "Work in progress and unpublished papers.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/working-papers/";
-          },
         },{id: "dropdown-government-service",
               title: "government service",
               description: "",
