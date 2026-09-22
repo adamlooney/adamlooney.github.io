@@ -3,11 +3,17 @@ layout: page
 permalink: /working-papers/
 title: working papers
 description: Work in progress and unpublished papers.
-nav: true
+nav: false
 nav_order: 3
 noindex: true
 sitemap: false
 ---
+
+<!-- Hidden from the navbar (nav: false) as of September 2026 — the papers are
+     not ready to be public. The page still resolves at /working-papers/ so the
+     URL can be shared directly; it stays noindex + out of the sitemap. To put it
+     back in the navbar, set nav: true. Note that four of these papers are also
+     linked from their /data/ landing pages, which ARE indexed. -->
 
 <!-- _pages/working-papers.md -->
 <!-- Entries are drawn from _bibliography/working_papers.bib (separate from the
